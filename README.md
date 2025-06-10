@@ -7,7 +7,7 @@
 - [Optimisations](#optimisations)
 - [Features](#features)
 - [What have I learnt from this?](#what-have-i-learnt-from-this)
-- [Improvements to be made](#improvements-to-be-made)
+- [Improvements to be made](#improvements-to-be-made) 
 - [File Structure](#file-structure)
 - [How to use this?](#how-to-use-this)
 
